@@ -2,7 +2,7 @@
 
 **Executa o build do Dockerfile usando a tag franciscogoncalez/debian-http**
 
-docker build -t franciscogoncalez/debian-http
+docker build -t franciscogoncalez/debian-http .
 
 **Executa a imagem franciscogoncalez/debian-http**
 
