@@ -1,4 +1,4 @@
-## COMANDOS
+## COMANDOS BUILD
 
 **Executa o build do Dockerfile usando a tag franciscogoncalez/debian-http**
 
